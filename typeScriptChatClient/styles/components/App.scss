@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{
+  margin: 0px;
+  padding: 0px;
+}
+form{
+  text-align: center
+}
+.title{
+  color: #fff;
+  background: #000;
+  text-align: center;
+  margin: 0px;
+  padding: 15px 0; 
+  font-family: 'Montserrat', sans-serif;
+}
+.username-field{
+  width: 80vw;
+  height: 50px;
+  margin: 0px 10px;
+  font-size: 20px;
+  margin: 10px 0;
+}
+.submit-btn{
+  background: purple;
+  color: #fff;
+  text-align: center;
+  padding: 5px 30px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 10px;
+}
